@@ -2,7 +2,7 @@
     "name": "ie/src",
     "autoload": {
         "psr-4": {
-            "Ie\\FileManager\\": "Ie/FileManager/"
+            "Ie\\Src": "Ie/Src/"
         }
     },
     "authors": [
