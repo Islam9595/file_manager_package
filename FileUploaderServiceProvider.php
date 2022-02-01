@@ -1,6 +1,6 @@
 <?php
 
-namespace Ie\Src;
+namespace Ie;
 
 
 use Illuminate\Support\ServiceProvider;
